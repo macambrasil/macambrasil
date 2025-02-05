@@ -20,7 +20,7 @@ Aspiramos não apenas manter, mas solidificar nossa posição de vanguarda no me
 - **Eficiência:** Otimizar processos e recursos para entregar resultados de alta qualidade no menor tempo possível.  
 - **Segurança:** Priorizar a segurança de colaboradores, clientes e parceiros em todos os aspectos do negócio.  
 - **Respeito:** Valorizar a diversidade, entender as diferenças e tratar todos com igualdade e dignidade.  
-🔗 Para mais informações acesse: [Sobre nós]([https://www.macambrasil.com.br](https://www.macambrasil.com.br/sobre-nos/)) | [Sobre a empresa]([https://www.macambrasil.com.br](https://www.macambrasil.com.br/sobre/)) | [Aviso Legal](https://www.macambrasil.com.br/aviso-legal-macam-brasil/) | [Política de Privacidade](https://www.macambrasil.com.br/politica-de-privacidade-da-macam-brasil/)
+🔗 Para mais informações acesse: [Sobre nós](https://www.macambrasil.com.br) | [Sobre a empresa](https://www.macambrasil.com.br/sobre/) | [Aviso Legal](https://www.macambrasil.com.br/aviso-legal-macam-brasil/) | [Política de Privacidade](https://www.macambrasil.com.br/politica-de-privacidade-da-macam-brasil/)
 
 
 ## Produtos
